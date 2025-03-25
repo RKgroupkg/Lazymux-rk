@@ -9,41 +9,41 @@ Lazymux is a tool that helps you to install and use multiple penetration testing
 
 # 🚀Features  
 
-✅ **Easy Tool Installation**  
-- Install a single tool:  
+ **Easy Tool Installation**  
+ Install a single tool:  
   ```bash
   lzmx > set_install 1
   ```  
-- Install multiple tools:  
+ Install multiple tools:  
   ```bash
   lzmx > set_install 1 2 3 4
   ```  
-- Install all available tools:  
+ Install all available tools:  
   ```bash
   lzmx > set_install @
   ```  
 
-✅ **Custom Installation Directory**  
-- Modify `lazymux.conf` to set your preferred installation path.  
-- Example (`lazymux.conf`):  
+ **Custom Installation Directory**  
+ Modify `lazymux.conf` to set your preferred installation path.  
+ Example (`lazymux.conf`):  
   ```bash
   HOME = /sdcard
   ```
 
 ------
 
-# 📸Screenshot  
+# Screenshot  
 <img src="core/lazymux_4.png">  
 
 ------
 
-# 📌Requirements  
+# Requirements  
 
-- Python **3.x**  
+ Python **3.x**  
 
 ------
 
-# 🔧Installation & Usage  
+# Installation & Usage  
 
 <img src="https://telegra.ph/file/03a650af46de1bcc27756.png" align="right" width="150">
 
@@ -63,8 +63,8 @@ python lazymux.py
   
 <img src="https://telegra.ph/file/b26313d73e4d05de84a85.png" align="right" width="150">
  
-- **Original Developer:** *Gameye98*  
-- **Current Maintainers:** *Rkgroupkg, Phantom3192*
+ **Original Developer:** *Gameye98*  
+ **Current Maintainers:** *Rkgroupkg, Phantom3192*
 
 <br>
 Any type of suggestions, pointing out bug or contribution is highly appreciated. :)
